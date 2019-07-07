@@ -1,10 +1,9 @@
-opencraft-poll xblock for cms 
-
+## opencraft-poll xblock for cms 
 
 需要安装tutor工具，https://docs.tutor.overhang.io/
 
-目前安装tutor 使用的源码安装，在tutor/plugins/目录下使用：
-     - git clone ... xpoll.
+目前安装tutor 使用的源码安装，在tutor/plugins/目录下使用:
+   git clone ... xpoll.
 
 使用源码安装：
      - pip install -e .
