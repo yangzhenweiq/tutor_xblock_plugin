@@ -12,8 +12,8 @@ opencraft-poll xblock for cms
 
 安装步骤:
 
-     - tutor plugin list
-     - tutor plugin enable xpoll
+     - tutor plugins list
+     - tutor plugins enable xpoll
      - tutor config save
      - tutor images build openedx
      - tutor local quickstart 
