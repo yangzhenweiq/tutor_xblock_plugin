@@ -10,11 +10,12 @@ opencraft-poll xblock for cms
      pip install -e .
 
 安装步骤:
-     tutor plugin list 
-     tutor plugin enable xpoll
-     tutor config save
-     tutor images build openedx
-     tutor local quickstart 
+
+     - tutor plugin list
+     - tutor plugin enable xpoll
+     - tutor config save
+     - tutor images build openedx
+     - tutor local quickstart 
 
 创建超级用户：
      tutor local createuser --superuser yourname youremail
