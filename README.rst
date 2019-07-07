@@ -26,7 +26,7 @@ opencraft-poll xblock for cms
 
     - tutor local importdemocourse
      
-在studio 课程 advance settings 添加'xpoll'
+在studio 课程 advance settings 添加'poll'
 
 
 
