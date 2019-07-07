@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: tutor-xpoll
+Version: 0.0.1
+Summary: A Tutor plugin for xblock in cms
+Home-page: UNKNOWN
+Author: yzw
+Author-email: contact@overhang.io
+License: AGPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5

@@ -1,0 +1,9 @@
+README.rst
+setup.py
+tutor_xpoll.egg-info/PKG-INFO
+tutor_xpoll.egg-info/SOURCES.txt
+tutor_xpoll.egg-info/dependency_links.txt
+tutor_xpoll.egg-info/entry_points.txt
+tutor_xpoll.egg-info/top_level.txt
+tutorxpoll/__init__.py
+tutorxpoll/plugin.py
