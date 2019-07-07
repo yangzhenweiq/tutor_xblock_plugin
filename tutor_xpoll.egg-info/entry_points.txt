@@ -1,3 +1,0 @@
-[tutor.plugin.v0]
-xpoll = tutorxpoll.plugin
-
